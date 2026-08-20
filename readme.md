@@ -1,5 +1,5 @@
 ## Vision
-openNAMU Vision 스킨의 유지보수 버전입니다.
+(포팅 작업 중입니다. 아직 푸시하지 않았습니다.)
 
 [[추가 정보]](https://daol.cc/w/Vision)
 
